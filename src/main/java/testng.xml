@@ -1,0 +1,7 @@
+<suite name="ProxilySuite" verbose="1" >
+    <test name="Proxily" >
+        <packages>
+            <package name="org.proxily.backend.integrationtests.*"/>
+        </packages>
+    </test>
+</suite>

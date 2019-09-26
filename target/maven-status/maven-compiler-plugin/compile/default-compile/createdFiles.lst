@@ -1,0 +1,8 @@
+org/proxily/backend/integrationtests/Common.class
+org/proxily/backend/integrationtests/CommentsTest.class
+org/proxily/backend/integrationtests/VotingTest.class
+org/proxily/backend/integrationtests/MainTest.class
+org/proxily/backend/integrationtests/GetFeedItemTest.class
+org/proxily/backend/integrationtests/SavedLocationsTest.class
+org/proxily/backend/integrationtests/UploadItemTest.class
+org/proxily/backend/integrationtests/AuthTest.class
